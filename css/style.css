@@ -497,7 +497,7 @@ font-size: 17px;
 
 .contact .info .social i {
     margin-left: 10px;
-    color: var(--secondary-color);
+    color: var(--main-color);
 }
 
 @media (max-width: 767px) {
